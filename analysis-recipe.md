@@ -11,3 +11,5 @@ Instructions:
 3. Click the `Undo / Redo` tab > `Apply` and paste in the contents of the data_cleaning_script.txt file you just created with the JSON code.
 4. Click `Perform operations`. The dataset should now be the same as your other cleaned dataset.
 5. Save your output as `samples_openrefine_lesson_clean.csv`
+
+End of recipe
